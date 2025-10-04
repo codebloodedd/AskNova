@@ -28,8 +28,6 @@ Here are a few examples of chatbot implementations using Langchain and Streamlit
 ## <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="40" height="22"> Streamlit App
 Created a multi-page streamlit app containing all sample chatbot use cases.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://langchain-chatbot.streamlit.app/)
-
 ## 🖥️ Running locally
 ```shell
 # Run main streamlit app
